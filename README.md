@@ -1,6 +1,7 @@
 # Globe Interactif avec Capitales
 
 Ce script crée une visualisation interactive en 3D d'un globe terrestre avec les capitales représentées par des points dont la taille, la hauteur et la couleur varient en fonction de leur population.
+on a accès au contenu par /public
 
 ## Fonctionnalités
 
